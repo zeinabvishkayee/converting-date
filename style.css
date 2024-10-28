@@ -1,0 +1,26 @@
+body{
+    text-align: center;
+    margin-top: 500px;
+}
+button{
+    width: 200px;
+    height: 50px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+input{
+    width: 200px;
+    height: 50px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid lightgray;
+    outline: none;
+    transition: background-color 0.3s;
+}
+label{
+    font-size: 20px;
+}
